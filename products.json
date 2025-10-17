@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tv-55-4k",
+    "title": "55\" 4K Smart LED TV",
+    "category": "TV",
+    "brand": "CrystalVision",
+    "price": 34999,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=1",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=2",
+      "https://images.unsplash.com/photo-1587202372775-48fbf5b0f3a7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=3"
+    ],
+    "rating": 4.6,
+    "specs": {"size":"55 inch","resolution":"4K","smart":"Yes"},
+    "stock": 12,
+    "features": ["HDR","Dolby Audio","Android TV"]
+  },
+  {
+    "id": "tv-65-oled",
+    "title": "65\" OLED Smart TV",
+    "category": "TV",
+    "brand": "Visionary",
+    "price": 89999,
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b3e4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=4",
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=5",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=6"
+    ],
+    "rating": 4.8,
+    "specs": {"size":"65 inch","resolution":"4K OLED","smart":"Yes"},
+    "stock": 6,
+    "features": ["OLED","Perfect Blacks","Voice Assistant"]
+  },
+  {
+    "id": "fridge-300l",
+    "title": "300L Frost Free Refrigerator",
+    "category": "Fridge",
+    "brand": "FrostPro",
+    "price": 24999,
+    "images": [
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=7",
+      "https://images.unsplash.com/photo-1586201375759-91b9b7d4f6c6?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=8",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=9"
+    ],
+    "rating": 4.3,
+    "specs": {"capacity":"300 L","type":"Frost Free","energy":"3 Star"},
+    "stock": 8,
+    "features": ["Stabilizer Free","Low Noise"]
+  },
+  {
+    "id": "fridge-500l",
+    "title": "500L Side-by-Side Refrigerator",
+    "category": "Fridge",
+    "brand": "CoolHouse",
+    "price": 55999,
+    "images": [
+      "https://images.unsplash.com/photo-1582719478179-8b2f3b6f7b9a?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=10",
+      "https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=11",
+      "https://images.unsplash.com/photo-1503602642458-232111445657?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=12"
+    ],
+    "rating": 4.5,
+    "specs": {"capacity":"500 L","type":"Side-by-Side","energy":"4 Star"},
+    "stock": 4,
+    "features": ["Water Dispenser","Inverter Compressor"]
+  },
+  {
+    "id": "ac-1.5t",
+    "title": "1.5 Ton Inverter AC",
+    "category": "AC",
+    "brand": "AirMax",
+    "price": 27999,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=13",
+      "https://images.unsplash.com/photo-1582719478179-8b2f3b6f7b9a?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=14",
+      "https://images.unsplash.com/photo-1598300054072-8c4f3a6b1d2e?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=15"
+    ],
+    "rating": 4.1,
+    "specs": {"capacity":"1.5 Ton","type":"Inverter","btu":"18000"},
+    "stock": 15,
+    "features": ["Eco Mode","Sleep Mode"]
+  },
+  {
+    "id": "wm-7kg",
+    "title": "7kg Front Load Washing Machine",
+    "category": "Washing Machine",
+    "brand": "SpinTech",
+    "price": 18999,
+    "images": [
+      "https://images.unsplash.com/photo-1519741490-7de6f7ecf3b3?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=16",
+      "https://images.unsplash.com/photo-1581579182060-b1f2c3d4e5f6?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=17",
+      "https://images.unsplash.com/photo-1503602642458-232111445657?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=18"
+    ],
+    "rating": 4.0,
+    "specs": {"capacity":"7 kg","type":"Front Load","rpm":"1200"},
+    "stock": 10,
+    "features": ["Quick Wash","Child Lock"]
+  },
+  {
+    "id": "speaker-1",
+    "title": "Bluetooth Party Speaker",
+    "category": "Speakers",
+    "brand": "BoomBox",
+    "price": 4999,
+    "images": [
+      "https://images.unsplash.com/photo-1585386959984-a415522b3b9f?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=19",
+      "https://images.unsplash.com/photo-1509395176047-4a66953fd231?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=20",
+      "https://images.unsplash.com/photo-1518446154603-5fbc6f265f6b?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=21"
+    ],
+    "rating": 4.4,
+    "specs": {"power":"40W","wireless":"Bluetooth"},
+    "stock": 25,
+    "features": ["USB","LED Lights","TWS Pairing"]
+  },
+  {
+    "id": "laptop-14",
+    "title": "14\" Ultralight Laptop",
+    "category": "Laptops",
+    "brand": "NoteAir",
+    "price": 65999,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=22",
+      "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=23",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=24"
+    ],
+    "rating": 4.5,
+    "specs": {"screen":"14 inch","cpu":"i5","ram":"8GB"},
+    "stock": 7,
+    "features": ["Fingerprint","Backlit Keyboard"]
+  }
+]

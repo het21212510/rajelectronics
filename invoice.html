@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Invoice 12 RajElectronics</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Simple print styles */
+    .invoice {
+      max-width: 800px; margin: 1rem auto; padding: 1rem; background:#fff; border:1px solid #e5e7eb;
+    }
+    .invoice-header{display:flex;justify-content:space-between;align-items:center}
+    .invoice-meta{font-size:0.95rem;color:var(--muted)}
+    @media print{ .no-print{display:none;} .invoice{border:0;margin:0;} }
+  </style>
+</head>
+<body>
+  <header class="navbar" role="banner">
+    <a class="brand" href="index.html">
+      <span class="logo">RE</span>
+      <span class="company">RajElectronics</span>
+    </a>
+    <div class="actions">
+      <a class="btn" href="catalog.html">Products</a>
+      <a class="btn" href="cart.html">Cart</a>
+    </div>
+  </header>
+
+  <main>
+    <div id="invoice-root" class="invoice"></div>
+  </main>
+
+  <script src="nav.js"></script>
+  <script src="store.js"></script>
+  <script>
+    // call the invoice renderer
+    if(window.REStore && REStore.renderInvoice){ REStore.renderInvoice('invoice-root'); }
+  </script>
+</body>
+</html>
